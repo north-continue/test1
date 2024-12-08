@@ -1,0 +1,4 @@
+# 配置
+- `git config --global user.name "Your Name"`：设置全局用户名。
+- `git config --global user.email "your_email@example.com"`：设置全局用户邮箱。
+- `git config --list`：查看当前的 Git 配置。
